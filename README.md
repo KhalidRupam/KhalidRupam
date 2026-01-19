@@ -1,4 +1,4 @@
-<h3 align="center">Senior Full-Stack .NET Developer</h3>
+<h3 align="center">Full-Stack .NET Developer</h3>
 
 <p align="center">
   Turning real-world experience into practical learning.
