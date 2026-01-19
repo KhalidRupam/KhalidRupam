@@ -24,14 +24,17 @@
   in real projects — beyond basic CRUD tutorials.
 </p>
 
-<h4 align="left">Areas of Focus</h4>
+<h4 align="left">Tech Stack</h4>
 
 <ul>
-  <li>ASP.NET Core &amp; .NET 8</li>
-  <li>Blazor (Server &amp; WebAssembly)</li>
-  <li>Clean Architecture &amp; Best Practices</li>
-  <li>Azure Cloud &amp; Real-Time Systems</li>
-  <li>Mentoring &amp; Knowledge Sharing</li>
+  <li><strong>Backend:</strong> C#, .NET 6/7/8, ASP.NET Core, Web API, Entity Framework Core</li>
+  <li><strong>Frontend:</strong> Blazor Server &amp; WASM, React, Angular, JavaScript, HTML, CSS</li>
+  <li><strong>Mobile:</strong> Xamarin, React Native</li>
+  <li><strong>Databases:</strong> SQL Server, SQLite, Redis</li>
+  <li><strong>Cloud &amp; DevOps:</strong> Azure App Service, Azure AD B2C, Azure Storage</li>
+  <li><strong>Real-Time:</strong> SignalR</li>
+  <li><strong>Tools:</strong> Git, Postman, Figma</li>
+  <li><strong>Architecture:</strong> Clean Architecture, RESTful APIs, Modular Design</li>
 </ul>
 
 <hr/>
