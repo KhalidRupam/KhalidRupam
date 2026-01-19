@@ -18,12 +18,6 @@
   frontend experiences.
 </p>
 
-<p align="left">
-  Currently, I am creating content to help
-  <strong>students and junior developers</strong> understand how .NET is used
-  in real projects — beyond basic CRUD tutorials.
-</p>
-
 <h4 align="left">Tech Stack</h4>
 
 <ul>
